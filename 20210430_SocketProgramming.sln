@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketProgramming.MasterSer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketProgramming.MasterFiles", "SocketProgramming.MasterFiles\SocketProgramming.MasterFiles.csproj", "{678A12B3-89FE-497B-9251-5A8BA0AF7446}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketProgramming.Client", "SocketProgramming.Client\SocketProgramming.Client.csproj", "{4F9C6335-D584-48EC-BFD9-3FB256EBC226}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{678A12B3-89FE-497B-9251-5A8BA0AF7446}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{678A12B3-89FE-497B-9251-5A8BA0AF7446}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{678A12B3-89FE-497B-9251-5A8BA0AF7446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9C6335-D584-48EC-BFD9-3FB256EBC226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9C6335-D584-48EC-BFD9-3FB256EBC226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9C6335-D584-48EC-BFD9-3FB256EBC226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9C6335-D584-48EC-BFD9-3FB256EBC226}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
