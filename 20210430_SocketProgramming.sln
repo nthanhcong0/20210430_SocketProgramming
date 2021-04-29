@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.809.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketProgramming.MasterServers", "SocketProgramming.MasterServers\SocketProgramming.MasterServers.csproj", "{541518AA-7CB7-49F7-B3D7-DD78B5FB65B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketProgramming.MasterFiles", "SocketProgramming.MasterFiles\SocketProgramming.MasterFiles.csproj", "{678A12B3-89FE-497B-9251-5A8BA0AF7446}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{541518AA-7CB7-49F7-B3D7-DD78B5FB65B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{541518AA-7CB7-49F7-B3D7-DD78B5FB65B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{541518AA-7CB7-49F7-B3D7-DD78B5FB65B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678A12B3-89FE-497B-9251-5A8BA0AF7446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678A12B3-89FE-497B-9251-5A8BA0AF7446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678A12B3-89FE-497B-9251-5A8BA0AF7446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678A12B3-89FE-497B-9251-5A8BA0AF7446}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
