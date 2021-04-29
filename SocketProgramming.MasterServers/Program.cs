@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SocketProgramming.Server
+namespace SocketProgramming.MasterServers
 {
     class Program
     {
